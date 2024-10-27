@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1518587153 source:e:\document\code\e-sports simulator\main.cpp
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1710777120 source:e:\document\code\c&c++\e-sports simulator\main.cpp
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
